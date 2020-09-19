@@ -17,5 +17,17 @@ become a highly efficient developer with wide knowledge of the sphere.
 * JavaScript
 * Git  
 
+## Experience
+Solved Java tasks and contests on HackerRank, CodingBat.  
+Passed Stepik course "Web-development, HTML&CSS for beginners"
 
+## Code example
+[GitHub](https://github.com/dariadrozdova)  
+[HackerRank](https://www.hackerrank.com/dariadrozdova10)
+
+## Education
+Graduated Pavlov First St.Petersburg State Medical University with honours
+
+## English
+Intermediate+ (B1+)
 
